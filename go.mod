@@ -6,7 +6,7 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/creack/pty v1.1.11 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/docker/docker v1.13.1
+	github.com/docker/docker/v20/v20 v20.10.3
 	github.com/dustin/go-humanize v1.0.0
 	github.com/gliderlabs/ssh v0.3.1
 	github.com/go-sql-driver/mysql v1.5.0
@@ -26,10 +26,10 @@ require (
 	github.com/smartystreets/assertions v0.0.0-20190401211740-f487f9de1cd3 // indirect
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.4.0 // indirect
-	github.com/urfave/cli v1.22.5
+	github.com/urfave/cli/v2/v2 v2.3.0
 	golang.org/x/crypto v0.0.0-20201112155050-0c6587e931a9
 	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f // indirect
-	gopkg.in/gormigrate.v1 v1.6.0
+	gopkg.in/gormigrate/v2.v1/v2 v2.0.0
 	moul.io/srand v1.6.1
 )
 
